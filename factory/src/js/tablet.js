@@ -1,4 +1,3 @@
-'use strict'
 
 export class Tablet {
     constructor({name, ram, hdd, type}){

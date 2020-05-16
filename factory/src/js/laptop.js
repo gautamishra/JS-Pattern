@@ -1,4 +1,4 @@
-'use strict'
+
 
 export class Laptop {
     constructor({name, ram, hdd, type}){
