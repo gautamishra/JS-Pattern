@@ -1,5 +1,5 @@
-import {Tablet} from 'tablet.js';
-import {Laptop} from 'laptop.js';
+import {Tablet} from './tablet.js';
+import {Laptop} from './laptop.js';
 
 export default class GadgetFactory {
 

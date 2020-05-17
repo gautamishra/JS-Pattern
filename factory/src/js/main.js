@@ -1,4 +1,4 @@
-import { GadgetFactory } from "gadgetFactory.js";
+import { GadgetFactory } from "./gadgetFactory.js";
 
 function main () {
     factory = new GadgetFactory();
